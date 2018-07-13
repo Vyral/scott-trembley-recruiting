@@ -18,7 +18,11 @@ client:
   title:
   license_number:
   about_markdown: |
+    The Trembley Group is not your average Real Estate firm. The environment we create provides everything you will need to succeed: consistent training, marketing/ administrative support, an abundance of leads, and a proven system for sales success.
 
+    <strong>Our commitment is to assist real estate sales executives in creating a more predictable business and balanced life.</strong>
+
+    The Trembley Group was established by seasoned, award-winning professionals who are passionate about real estate.  We specialize in positively changing lives one relationship at a time. Our impact is achieved through consistent communication and collaboration, innovative services and a vast knowledge of today’s Real Estate market.  Our group culture is fostered through powerful principles, hard work, faith, honesty, and a daily commitment to excellence. We are leaders looking to collaborate and experience business growth with other like-minded leaders.  Our CORE VALUES are super important to us around here. They drive us daily!
   market: Myrtle Beach
   brand: ​The Trembley Group Real Estate
   brokerage:
@@ -44,8 +48,8 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/TheTrembleyGroupMyrtleBeachRealEstate
+  linkedin_url: https://www.linkedin.com/in/scotttrembley/
   gplus_url:
   youtube_url:
   twitter_url:
