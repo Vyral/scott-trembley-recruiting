@@ -15,39 +15,93 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Fellow or Future Real Estate Agent:</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>We understand that right now you may be frustrated with the current state of your career. Perhaps you’ve already found success in the real estate industry, but find yourself lacking in the consistency, support, and direction you desire. Even those with the drive and skill to produce between $1 and $10 million in sales may feel this same exasperation. Without the right environment, agents are simply unable to thrive.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Or perhaps you are working as a sales professional in another industry, but have been considering the switch to a real estate career.</p>
+
+<p>In either case, the bottom line is this: Something has to change. Yet, as those of you already in the industry will know, not every brokerage out there will offer you a path to true success. <strong>Did you know that 87% of people who get their real estate license will drop out of the industry in their first two to five years?</strong> That means nine out of every 10 agents fail before they ever really get a chance to win. So why does this happen?</p>
+
+<p>As I mentioned before, most brokerages don’t offer agents any support. This leaves agents to fend for themselves, spending their own money and resources on tools and tactics that never seem to pay off. <strong>To achieve long-term success, agents need support, coaching, training, accountability, and, of course, leads.</strong></p>
+
+<p>Getting into a real estate career can either feel like the best or the worst decision in your life. The difference comes down to the environment you choose, and how you use that environment to your advantage. The right resources and support can take your career from bleak to booming, and this is exactly what we at The Trembley Group are offering you.</p>
+
+<p>Our mission here at The Trembley Group is to deliver 6-star (not just 5-star) service to every client, partner, agent we work with, and to our own team members as well. Our goal has been to be the No. 1 reviewed company in our market and, eventually, in the real estate industry, overall.</p>
+
+<p>Right now, we are the No. 1  reviewed company on Zillow in our market. With 725+ positive reviews on that platform, we’re well on our way to being one of the top-reviewed companies in our industry.</p>
+
+<p><strong>My name is Scott Trembley, and today I’m going to tell you why joining our team is your best bet at success in this industry.</strong> I’ve been in real estate for more than 20 years, have helped over 4,000 families achieve their real estate goals, and have trained more than 100 agents in the past 10 years. All that said, I know what it takes to succeed in real estate.</p>
+
+<p>In the short time since I founded the The Trembley Group three years ago, we have been recognized as the fastest-growing team in our market. Whether you’re working in sales in another industry and are thinking of making a change, or you’re already an agent but crave more direction, we can help put you on the path to a better career and a better life.</p>
+
+<p>According to the Coastal Carolina Association of Realtors, The Trembley Group is the place to go if you want to learn the business and learn it fast. <strong>Here are just a few of the resources we offer to our agents:</strong>
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>High-level coaching</li>
+<li>In-depth training</li>
+<li>Real accountability</li>
+<li>The best customer resource management system available</li>
+<li>Your own website</li>
+<li>Individual branding and marketing</li>
+<li>Support from our transaction department and inside sales team</li>
+<li>An encouraging culture that is second-to-none</li>
+<li>Systems that work</li>
+<li>Office and desk space</li>
+<li>Leads</li>
+<li>And much more</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>The reason we offer all of this is simple. We want our agents to be more than just great real estate professionals, we want our agents to develop into the most-trusted leaders in the industry. By joining our team, you’ll be on the fast track to helping upwards of 40 families on an annual basis, while also earning six figures and beyond once you enter your second year.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p><strong>You could try one of these alternative options:</strong>
+<ol class="indent">
+<li>You could work for a competing broker and pay for all of your own materials and training with no success to show for it. </li>
+<li>You could try to start your own team with no support and struggle to maintain a balance between hiring, training, selling, and more.</li>
+<li>You could leave the industry or stay in your current 9-to-5 with no end goal in sight. </li>
+</ol></p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p><strong>But why test your luck at replicating the kind of success that, when you join us, is a sure thing?</strong> If you follow the path we’ve laid out, you’ll find that your goals are much closer than you think. At the Trembley Group, we offer you the chance to build a career that will the life you want, all while allowing you the freedom to enjoy that life. Encouraging strong families is as important to us as encouraging strong real estate careers. This commitment is part of what sets our team apart, along with our core values—which are:
+<ul class="indent">
+<li>Winning Attitude</li>
+<li>Coachable</li>
+<li>Heart</li>
+<li>Fearless</li>
+<li>The 100/0 Principle: 100% accountability, zero excuses.</li>
+</ul></p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>But don’t just take my word for it. <strong>Consider this success story from one of our great agents:</strong></p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>During the Christmas party we held at the end of our first year in business, our team was sitting around and sharing our favorite memories from the year. We laughed, cried, and reminisced on all the ways our lives (and the lives of our clients) had changed. When the bartender who was working at the party heard this, she chimed in and told us that hearing our stories made her want to enter the industry herself. She said she was ready to change lives. I told her to come see me when she got her license and, one year later, she did. <strong>Within her first seven months on our team, this woman sold 19 homes without any prior real estate experience.</strong></p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>Many of the agents on our team have success stories just like this, because working with us is truly unique. While the average agent in our industry sells six to eight homes a year, the average number of yearly transactions for agents on our team is 40. This is because instead of struggling to find and convert leads, our agents are on the path to success. We structure a complete business plan for you, investing in branding and marketing you as an individual, and set you up to become a leader of your own team within our brokerage later on in your career.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p><strong>Here’s what you will learn when you begin our comprehensive 30-day onboarding process:</strong>
+<ul class="indent">
+<li>How to interpret, negotiate, and work with contracts</li>
+<li>How to leverage our systems</li>
+<li>How to convert leads</li>
+<li>How to successfully perform on outbound calls</li>
+<li>And more</li>
+</ul></p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>If you trust our process and follow our guidance, we guarantee you will find success. The question is what level you’re willing to take that success to. The harder you work for your goals, the higher goals you’ll be able to set.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>After coming on board with our team, you’ll quickly understand why agents on our team say that The Trembley Group is “unlike any other.”</p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>In the words of one of our team members: “The Trembley Group has helped me change so many lives, starting with my own.  I honestly believe it is the best real estate company in the world.”</p>
+
+<p><strong>The bottom line is this: If you take this offer, your business and your life will be completely transformed.</strong></p>
+
+<p>If you have any other questions or would like to get started in the process of joining our team, give me a call or send me an email today. I look forward to hearing from you soon.</p>
+
+<p>I’d be happy to answer any other questions you may have about our team if you just give us a call or send us an email today. We look forward to hearing from you soon.</p>
+
+<p>Regards,</p>
+
+<p>{{site.data.settings.client.name}}<br>
+<a href="tel:1-{{site.data.settings.client.phone}}">{{site.data.settings.client.phone}}</a><br>
+<a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
+</p>
 
 
 
