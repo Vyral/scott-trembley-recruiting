@@ -91,7 +91,7 @@ Third Tier: 75% commission on self-generated business & 50% on qualified company
 <li>The 100/0 Principle: 100% accountability, zero excuses.</li>
 </ul></p>
 
-<p>But don’t just take my word for it. <strong>Consider this success story from one of our great agents:</strong></p>
+<p>But don’t just take my word for it. <strong>Consider this success story from some of our great agents:</strong></p>
 
 <p class="indent">During the Christmas party we held at the end of our first year in business, our team was sitting around and sharing our favorite memories from the year. We laughed, cried, and reminisced on all the ways our lives (and the lives of our clients) had changed. When the bartender who was working at the party heard this, she chimed in and told us that hearing our stories made her want to enter the industry herself. She said she was ready to change lives! I told her to come see me when she got her license and, one year later, she did. <strong>Within her first seven months on our team, this woman sold 19 homes without any prior real estate experience.</strong></p>
 
