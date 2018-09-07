@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To 10X Your Business & Your Life
-date: 2018-09-06 20:38:37
+date: 2018-09-05 20:38:00
 tags:
 excerpt:
 enclosure:
