@@ -9,7 +9,8 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
-
+  - title: About Us
+    url: /about/
 
 client:
   name: Scott Trembley
