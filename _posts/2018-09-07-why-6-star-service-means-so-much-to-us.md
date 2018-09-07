@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why 6-star Service Means So Much To Us
-date: 2018-09-07 15:56:41
+date: 2018-09-07 15:56:00
 tags:
 excerpt:
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://www.youtube.com/watch?v=TZeBKoQrNKk&feature=youtu.be'
+youtube_code: 'https://www.youtube.com/watch?v=TZeBKoQrNKk'
 ---
 
 {% include youtube.html %}
