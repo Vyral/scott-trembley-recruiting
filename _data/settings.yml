@@ -24,13 +24,14 @@ client:
   market: Myrtle Beach
   brand: The Trembley Group Real Estate
   brokerage:
-  address: 1331 44th Ave N.
+  address: 1101 Johnson Avenue, Suite 104<br>Myrtle Beach, SC 29577
   phone: 843-455-6636
   phone_type:
   phone2:
   phone2_type:
   email: Scott@TheTrembleyGroup.com
   url: http://JoinTTG.com
+  url2: http://TheTrembleyGroup.com
 
 lender:
   show_section: false
