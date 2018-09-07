@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seek First To Understand Before Being Understood
-date: 2018-09-06 20:37:09
+date: 2018-09-05 20:37:00
 tags:
 excerpt:
 enclosure:
