@@ -1,7 +1,7 @@
 ---
 layout: post
-title: week of 8/21
-date:
+title: How To 10X Your Business & Your Life
+date: 2018-09-08 00:00:00
 tags:
 excerpt:
 enclosure:
@@ -10,8 +10,9 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 48JMe8fCi2M
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+&nbsp;
