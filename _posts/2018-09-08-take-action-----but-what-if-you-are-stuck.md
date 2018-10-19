@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ake Action ... But What If You Are Stuck?!
-date:
+title: Take Action ... But What If You Are Stuck?!
+date: 2018-09-08 00:00:00
 tags:
 excerpt:
 enclosure:
@@ -10,8 +10,9 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 0MEj9sQsYUU
 ---
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
