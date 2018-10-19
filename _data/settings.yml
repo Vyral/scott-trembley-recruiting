@@ -9,8 +9,11 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
+  - title: Events
+    url: https://www.eventbrite.com/o/the-trembley-group-real-estate-18006975621
   - title: About Us
     url: /about/
+    
 
 client:
   name: Scott Trembley
