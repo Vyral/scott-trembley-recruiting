@@ -8,7 +8,8 @@ excerpt: >-
   If you have a buyer who wants to see 30 homes, don’t feel overwhelmed. Just
   follow this step-by-step process and it will lead you to a quick, successful
   home purchase.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/What+to+Do+When+Your+Buyer+Wants+to+See+30+Homes.mp4
 pullquote: >-
   Their goal is to find the home they want and get into it as quickly as
   possible, and it’s your job to have an elimination and simplification strategy
@@ -16,7 +17,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/10-19-30-homes-np.jpg
 youtube_code: sMHwWbALOts
 ---
 
@@ -41,7 +42,7 @@ Now that you know these main points, how do you apply them to the actual process
 First, **take a minute and slow down.** Sales agents sometimes get so excited on the front end of their client relationship that the back end becomes a mess. So, start asking your client why they want to see these 30 homes and what they are looking for.
 {: .present-before-paste}
 
-To find this out, you need to**&nbsp;identify their LPMAMA:**&nbsp;their preferred location, price, motivation, agent (make sure they’re not working with anyone else), mortgage (will they finance or pay cash?), and appointment time. Asking deep-level questions about all of these factors will help you understand what they’re looking for in a home while they still want to see 30 homes.
+To find this out, you need to **identify their LPMAMA:** their preferred location, price, motivation, agent (make sure they’re not working with anyone else), mortgage (will they finance or pay cash?), and appointment time. Asking deep-level questions about all of these factors will help you understand what they’re looking for in a home while they still want to see 30 homes.
 {: .present-before-paste}
 
 {% include pullquote.html %}
@@ -62,5 +63,5 @@ Don’t be that agent. Be the one who goes through each of these steps thoroughl
 If you have any other questions about this process or there’s anything else I can help you with, don’t hesitate to reach out to me. I’d love to speak with you.
 {: .present-before-paste}
 
-&nbsp;
+ 
 {: .present-before-paste}
