@@ -42,7 +42,7 @@ Now that you know these main points, how do you apply them to the actual process
 First, **take a minute and slow down.** Sales agents sometimes get so excited on the front end of their client relationship that the back end becomes a mess. So, start asking your client why they want to see these 30 homes and what they are looking for.
 {: .present-before-paste}
 
-To find this out, you need to **identify their LPMAMA:** their preferred location, price, motivation, agent (make sure they’re not working with anyone else), mortgage (will they finance or pay cash?), and appointment time. Asking deep-level questions about all of these factors will help you understand what they’re looking for in a home while they still want to see 30 homes.
+To find this out, you need to&nbsp;**identify their LPMAMA:**&nbsp;their preferred location, price, motivation, agent (make sure they’re not working with anyone else), mortgage (will they finance or pay cash?), and appointment time. Asking deep-level questions about all of these factors will help you understand what they’re looking for in a home while they still want to see 30 homes.
 {: .present-before-paste}
 
 {% include pullquote.html %}
@@ -54,7 +54,7 @@ Now that you’ve narrowed the process down and you understand what your buyer i
 After you’re done summarizing, you need to **eliminate and simplify.** This is a very important step in this business. Take the summary of their 30 homes, discuss each one with them, and eliminate which ones won’t work. Your goal should be to simplify the list down to three to five homes by the time you meet with them. At the end of the process (or even during), they’ll thank you for taking this step and not wasting their time. Remember, their goal is to find the home they want and get into it as quickly as possible, and it’s your job to have an elimination and simplification strategy in place to make that happen.
 {: .present-before-paste}
 
-I joke sometimes that agents who don’t take this step and actually end up showing 30 homes to their clients are like a one-legged duck walking in a circle. We’re in a resort market here, so even after their client buys their primary residence, they sometimes go back home feeling confused, so those agents have to then spend their time reeling that client back in. During that time, they may end up reaching out to another agent who can simplify the process for them.
+I sometimes joke that agents who don’t take this step and actually end up showing 30 homes to their clients are like one-legged ducks walking in a circle. We’re in a resort market here, so even after their client buys their primary residence, they sometimes go back home feeling confused, so those agents have to then spend their time reeling that client back in. During that time, they may end up reaching out to another agent who can simplify the process for them.
 {: .present-before-paste}
 
 Don’t be that agent. Be the one who goes through each of these steps thoroughly. After that, it’s go time.
@@ -63,5 +63,5 @@ Don’t be that agent. Be the one who goes through each of these steps thoroughl
 If you have any other questions about this process or there’s anything else I can help you with, don’t hesitate to reach out to me. I’d love to speak with you.
 {: .present-before-paste}
 
- 
+&nbsp;
 {: .present-before-paste}
