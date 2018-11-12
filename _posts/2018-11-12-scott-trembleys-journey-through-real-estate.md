@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scott Trembley's Journey Through Real Estate
-date:
+date: 2018-11-12 22:04:22
 tags:
 excerpt:
 enclosure: >-
