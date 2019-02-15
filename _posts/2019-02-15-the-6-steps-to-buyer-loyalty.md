@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 6 Steps to Buyer Loyalty
-date:
+date: 2019-02-15 14:58:37
 tags:
   - Real Estate
 excerpt: Build your business in 2019 by creating buyer loyalty. Here’s how.
