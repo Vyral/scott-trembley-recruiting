@@ -23,7 +23,7 @@ In our fast-paced world of internet leads and online interaction with customers,
 
 **For your convenience, we’ve included timestamps for our topic today. Feel free to navigate to the section(s) you’re most interested in viewing:**
 
-00:18— Introduction to our topic: the six steps to buyer loyalty
+00:18— Introduction to our topic: The six steps to buyer loyalty
 
 01:22— Commit to a buyer consultation before all showings
 
