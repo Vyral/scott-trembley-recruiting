@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'Fellow Agents: It’s Time to Hold Yourself (and Your Team) Accountable'
-date:
+date: 2019-05-28 16:27:09
 tags:
-  - Real Estate
 excerpt: 'If you aren’t tracking your numbers, it’s time to start. Here’s why.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/Fellow+Agents-+Its+Time+to+Hold+Yourself+(and+Your+Team)+Accountable.mp4
