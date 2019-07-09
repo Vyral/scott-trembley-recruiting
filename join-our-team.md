@@ -35,9 +35,9 @@ permalink: /join-our-team/
 
 <p><strong>My name is Scott Trembley, and today I’m going to tell you why joining our team is your best bet at success in this industry.</strong> I’ve been in real estate for more than 20 years, have helped over 4,000 families achieve their real estate goals, and have trained more than 100 agents in the past 10 years. All that said, I know what it takes to succeed in real estate.</p>
 
-<p>In the short time since I founded Keller Williams Keller Williams The Trembley Group three years ago, we have been recognized as the fastest-growing team in our market. Whether you’re working in sales in another industry and are thinking of making a change, or you’re already an agent but crave more direction, we can help put you on the path to a better career and a better life.</p>
+<p>In the short time since I founded Keller Williams The Trembley Group three years ago, we have been recognized as the fastest-growing team in our market. Whether you’re working in sales in another industry and are thinking of making a change, or you’re already an agent but crave more direction, we can help put you on the path to a better career and a better life.</p>
 
-<p>According to the Coastal Carolina Association of Realtors, Keller Williams Keller Williams The Trembley Group is the place to go if you want to learn the business and learn it fast. <strong>Here are just a few of the resources we offer to our agents:</strong>
+<p>According to the Coastal Carolina Association of Realtors, Keller Williams The Trembley Group is the place to go if you want to learn the business and learn it fast. <strong>Here are just a few of the resources we offer to our agents:</strong>
 <ul class="indent">
 <li>High-level coaching</li>
 <li>Mentorship program for brand new agents </li>
@@ -82,7 +82,7 @@ Third Tier: 75% commission on self-generated business & 50% on qualified company
 <li>You could leave the industry or stay in your current 9-to-5 with no end goal in sight.</li>
 </ol></p>
 
-<p><strong>But why test your luck at replicating the kind of success that, when you join us, is a sure thing?</strong> If you follow the path we’ve laid out, you’ll find your goals are much closer than you think. At Keller Williams Keller Williams The Trembley Group, we offer you the chance to build a career and a life you want, all while allowing you the freedom to enjoy that life. Encouraging strong families is as important to us as encouraging strong real estate careers. This commitment is part of what sets our team apart, along with our core values—which are:
+<p><strong>But why test your luck at replicating the kind of success that, when you join us, is a sure thing?</strong> If you follow the path we’ve laid out, you’ll find your goals are much closer than you think. At Keller Williams The Trembley Group, we offer you the chance to build a career and a life you want, all while allowing you the freedom to enjoy that life. Encouraging strong families is as important to us as encouraging strong real estate careers. This commitment is part of what sets our team apart, along with our core values—which are:
 <ul class="indent">
 <li>Winning Attitude</li>
 <li>Coachable</li>
