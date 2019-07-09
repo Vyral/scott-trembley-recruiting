@@ -31,7 +31,7 @@ permalink: /join-our-team/
 
 <p>Right now, we are the No. 1 reviewed company on Zillow in our market. With 740 + positive reviews on that platform, we’re well on our way to being one of the top-reviewed companies in our industry.</p>
 
-<p><img src="/img/team.jpg" class="team-pic"><figcaption class="caption">{{site.data.settings.client.brand}}</figcaption></p>
+<p><img src="/img/team.jpeg" class="team-pic"><figcaption class="caption">{{site.data.settings.client.brand}}</figcaption></p>
 
 <p><strong>My name is Scott Trembley, and today I’m going to tell you why joining our team is your best bet at success in this industry.</strong> I’ve been in real estate for more than 20 years, have helped over 4,000 families achieve their real estate goals, and have trained more than 100 agents in the past 10 years. All that said, I know what it takes to succeed in real estate.</p>
 
