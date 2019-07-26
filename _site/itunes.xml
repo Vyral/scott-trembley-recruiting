@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Myrtle Beach Real Estate Podcast with Scott Trembley</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Trembley Group Real Estate - your professional Myrtle Beach Real Estate Agents.</description>
+    <title>Myrtle Beach Real Estate Training Podcast with Scott Trembley</title>
+    <link>https://realestatecareersmyrtlebeach.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://realestatecareersmyrtlebeach.com"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams The Trembley Group - your professional Myrtle Beach Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Scott Trembley</managingEditor>
-    <lastBuildDate>2018-11-21 13:19:27 -0600</lastBuildDate>
+    <lastBuildDate>2019-07-26 10:01:41 -0500</lastBuildDate>
     <media:copyright>Scott Trembley</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="https://realestatecareersmyrtlebeach.com/img/trembley_podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,91 @@
     </itunes:owner>
     <itunes:author>Scott Trembley</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="https://realestatecareersmyrtlebeach.com/img/trembley_podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Myrtle Beach Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Trembley Group Real Estate - your professional Myrtle Beach Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams The Trembley Group - your professional Myrtle Beach Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Fellow Agents: It’s Time to Hold Yourself (and Your Team) Accountable</title>
+        <link>https://realestatecareersmyrtlebeach.com/fellow-agents-its-time-to-hold-yourself-and-your-team-accountable.html</link>
+        
+        <author>Scott Trembley</author>
+        <pubDate>2019-05-28 11:27:09 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/Fellow+Agents-+Its+Time+to+Hold+Yourself+(and+Your+Team)+Accountable.mp4</guid>
+        <description>
+
+As you know, most agents don’t track the numbers in their business as closely as they should. If you fall into this category, don’t worry—you aren’t alone. But with that in mind, today I’d like to share a few of my team’s own methods for tracking our numbers.
+
+If you’re thinking of taking control of your business and having a better life, in general, the first step we recommend is that you read Gino Wickman’s incredible book, “Traction.”
+
+“When we’re able to pinpoint our areas of weakness, we can use this knowledge to improve.”
+
+In addition to taking lessons from this book, our team has implemented a coaching scorecard. We track appointments, sales, goals, and more for each and every agent. Agents are given points for their performance in each of these categories. 
+
+This gives us a clear idea of which of our agents are following the sales pipeline effectively, while simultaneously making us aware of the agents who could use some additional guidance. This is what makes tracking numbers so vital. When we’re able to pinpoint our areas of weakness, we can use this knowledge to improve. 
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/Fellow+Agents-+Its+Time+to+Hold+Yourself+(and+Your+Team)+Accountable.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://realestatecareersmyrtlebeach.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/Fellow+Agents-+Its+Time+to+Hold+Yourself+(and+Your+Team)+Accountable.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you aren’t tracking your numbers, it’s time to start. Here’s why.</itunes:subtitle>
+        <itunes:author>Scott Trembley</itunes:author>
+        <itunes:summary>If you aren’t tracking your numbers, it’s time to start. Here’s why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The 6 Steps to Buyer Loyalty</title>
+        <link>https://realestatecareersmyrtlebeach.com/the-6-steps-to-buyer-loyalty.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Scott Trembley</author>
+        <pubDate>2019-02-15 08:58:37 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/The+6+Steps+to+Buyer+Loyalty.mp4</guid>
+        <description>
+
+In our fast-paced world of internet leads and online interaction with customers, it’s incredibly important to create buyer loyalty. Customers have more outlets than ever when it comes to business, so you need to have a way to set yourself apart from the competition and create value. Today we’ll be looking at the six steps you should take to achieve buyer loyalty.
+
+“You must position yourself as a leader to your clients.”
+
+For your convenience, we’ve included timestamps for our topic today. Feel free to navigate to the section(s) you’re most interested in viewing:
+
+00:18— Introduction to our topic: The six steps to buyer loyalty
+
+01:22— Commit to a buyer consultation before all showings
+
+02:36— Get buy-in from clients that you will set up showings
+
+03:18— Get them on your website
+
+04:03— Take clients on three to five showings per outing
+
+04:59— Set expectations for home showings
+
+07:44— Set the future pace for the purchasing process
+
+09:39— Recap of the six steps
+
+For these steps to work, you must position yourself as a leader to your clients by being confident, having a plan, and executing it. Hopefully this gave you a good idea of how to begin building loyalty with your clients and customers. If you have any questions or need further information, feel free to reach out to me. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/The+6+Steps+to+Buyer+Loyalty.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://realestatecareersmyrtlebeach.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/The+6+Steps+to+Buyer+Loyalty.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Build your business in 2019 by creating buyer loyalty. Here’s how.</itunes:subtitle>
+        <itunes:author>Scott Trembley</itunes:author>
+        <itunes:summary>Build your business in 2019 by creating buyer loyalty. Here’s how.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Scott Trembley's Journey Through Real Estate</title>
-        <link>localhost:4000/scott-trembleys-journey-through-real-estate.html</link>
+        <link>https://realestatecareersmyrtlebeach.com/scott-trembleys-journey-through-real-estate.html</link>
         
         <author>Scott Trembley</author>
         <pubDate>2018-11-12 16:04:22 -0600</pubDate>
@@ -36,7 +112,7 @@
  
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/Scott+Trembley%2527s+Journey+Through+Real+Estate.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://realestatecareersmyrtlebeach.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/Scott+Trembley%2527s+Journey+Through+Real+Estate.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -51,7 +127,7 @@
       
       <item>
         <title>What to Do When Your Buyer Wants to See 30 Homes</title>
-        <link>localhost:4000/what-to-do-when-your-buyer-wants-to-see-30-homes.html</link>
+        <link>https://realestatecareersmyrtlebeach.com/what-to-do-when-your-buyer-wants-to-see-30-homes.html</link>
         
           <category>Buyer Prospects</category>
         
@@ -89,7 +165,7 @@ If you have any other questions about this process or there’s anything else I 
  
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/What+to+Do+When+Your+Buyer+Wants+to+See+30+Homes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://realestatecareersmyrtlebeach.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Trembley/What+to+Do+When+Your+Buyer+Wants+to+See+30+Homes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you have a buyer who wants to see 30 homes, don’t feel overwhelmed. Just follow this step-by-step process and it will lead you to a quick, successful home purchase.</itunes:subtitle>
@@ -98,109 +174,9 @@ If you have any other questions about this process or there’s anything else I 
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-      <item>
-        <title>Take Action ... But What If You Are Stuck?!</title>
-        <link>localhost:4000/take-action-but-what-if-you-are-stuck.html</link>
-        
-        <author>Scott Trembley</author>
-        <pubDate>2018-09-07 19:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-“”
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-</itunes:subtitle>
-        <itunes:author>Scott Trembley</itunes:author>
-        <itunes:summary>
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>How To 10X Your Business & Your Life</title>
-        <link>localhost:4000/how-to-10x-your-business-your-life.html</link>
-        
-        <author>Scott Trembley</author>
-        <pubDate>2018-09-07 19:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
- 
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-</itunes:subtitle>
-        <itunes:author>Scott Trembley</itunes:author>
-        <itunes:summary>
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Someone Needs To Hear This Today!</title>
-        <link>localhost:4000/someone-needs-to-hear-this-today.html</link>
-        
-        <author>Scott Trembley</author>
-        <pubDate>2018-09-07 15:36:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-“”
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-</itunes:subtitle>
-        <itunes:author>Scott Trembley</itunes:author>
-        <itunes:summary>
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>Seek First To Understand Before Being Understood</title>
-        <link>localhost:4000/seek-first-to-understand-before-being-understood.html</link>
-        
-        <author>Scott Trembley</author>
-        <pubDate>2018-09-06 15:37:00 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-“”
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-</itunes:subtitle>
-        <itunes:author>Scott Trembley</itunes:author>
-        <itunes:summary>
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
     <copyright>Scott Trembley</copyright>
     <media:credit role="author">Scott Trembley</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Trembley Group Real Estate - your professional Myrtle Beach Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams The Trembley Group - your professional Myrtle Beach Real Estate Agents.</media:description>
   </channel>
 </rss>
