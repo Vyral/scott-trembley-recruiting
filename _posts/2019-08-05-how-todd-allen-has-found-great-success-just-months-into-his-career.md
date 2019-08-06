@@ -28,11 +28,11 @@ After having three kids and three years and needing a change of pace, he got int
 
 **Fast forward seven months into his first year and Todd has done over $4 million in sales.** What has made the difference for him?&nbsp;
 
-**According to Todd, the reason he chose The Trembley Group is because he wanted to be put into a system of success right away.** He went through boot camp, where he learned how to talk on the phone with clients, and he’s been able to use the mentorship here to his advantage. The team structure allows Todd to learn much more quickly than an agent who joins a brokerage and is then left alone.
+**According to Todd, the reason he chose The Trembley Group is that he wanted to be put into a system of success right away.** He went through boot camp, where he learned how to talk on the phone with clients, and he’s been able to use the mentorship here to his advantage. The team structure allows Todd to learn much more quickly than an agent who joins a brokerage and is then left alone.
 
 In the beginning, Todd thought that just selling one house a month would be amazing for him and his family. He wasn’t sure if it was possible, but he knows now that it is. **He’s already sold 21 homes in 2019 alone.**
 
-In the future, Todd is excited for his future here at The Trembley Group. We’ve got a hot market, Todd is upping his goals, and he’s ready to work harder than ever to make it happen.
+Todd is excited for his future here at The Trembley Group. We’ve got a hot market, Todd is upping his goals, and he’s ready to work harder than ever to make it happen.
 
 **Todd’s advice for a struggling agent who isn’t sure if this is the right place for them?** “Every morning, I look forward to coming to work. If you’re someone who feels like your office is a drag, this is a place for you. We have a lot of fun here.”
 
