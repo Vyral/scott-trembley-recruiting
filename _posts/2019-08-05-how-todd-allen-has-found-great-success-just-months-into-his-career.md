@@ -12,7 +12,7 @@ pullquote: Todd is excited for his future with The Trembley Group.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/convoyt.png
+youtube_alternate_image: /uploads/trembley-youtube.jpg
 youtube_code: fFeJecUTAuM
 ---
 
