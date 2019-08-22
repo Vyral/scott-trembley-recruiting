@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/scott-trembley-hecm-part-2-youtube.png
+youtube_alternate_image: /uploads/scott-trembley-how-does-the-hecm-realtors-and-buyers-youtube.png
 youtube_code: jyGQQE5hLpY
 ---
 
