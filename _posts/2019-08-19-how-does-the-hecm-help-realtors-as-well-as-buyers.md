@@ -28,6 +28,6 @@ Follow along in the video above to see our full conversation recapping how this 
 
 If you’d like to know more about the HECM program and how it can benefit you, you can email Larry Reed at [lreed@rfslends.com](mailto:lreed@rfslends.com) or give him a call at (803) 269-1053.&nbsp;
 
-Stay tuned for a buyers version reference up next\!&nbsp;
+Stay tuned for a video on how HECM can benefit your buyers up next\!
 
 If you have any questions for me or there’s anything else I can help you with, feel free to call or email me anytime. I’d love to help you.
