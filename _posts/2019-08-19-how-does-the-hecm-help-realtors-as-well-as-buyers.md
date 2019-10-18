@@ -18,7 +18,7 @@ youtube_code: jyGQQE5hLpY
 
 {% include youtube.html %}
 
-As you remember from my previous video, a home equity conversion mortgage (HECM) is a type of loan designed for people aged 62 or older that allows them to buy a primary residence by making just one down payment and no additional mortgage payments for the rest of their lives.&nbsp;
+As you remember from my previous video, a "Home Equity Conversion Mortgage" (HECM) is a type of loan designed for people aged 62 or older that allows them to buy a primary residence by making just one down payment and no additional mortgage payments for the rest of their lives.&nbsp;
 
 We know how this loan program benefits buyers, but what about Realtors? That’s the question my friend and associate Larry Reed and I will answer today.&nbsp;
 
